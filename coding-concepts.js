@@ -26,7 +26,7 @@ const greeting = "Hello World!"
 // console.log(greeting[4])
 
 // a) Your answer: This line of code should return the fourth letter in the index
-// b) Verify and explain: This line of code will show you thhe fourth letter in the index, the square bracket holds the index
+// b) Verify and explain: This line of code will show you thhe fourth index in the string, the square bracket holds the index
 
 // --------------------3) What will this log?
 
@@ -51,4 +51,4 @@ const dataTypes = ["number", "string", "Boolean", "undefined"]
 console.log(typeof dataTypes.length)
 
 // a) Your answer: This will log the lenght of the array labeled as datatypes
-// b) Verify and explain: My answer would be wrong because dataTypes.lenght is going to return the value of 4 to return the amount of items in the array. Typeof is going to return the value of that datatype which would return number. 
+// b) Verify and explain: My answer would be wrong because dataTypes.lenght is going to return the value of 4 to return the amount of items in the array. Typeof is going to return that datatype which would return the data type of the value. 
